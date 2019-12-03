@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745901059846",
+    "firebase_url": "https://ionic-firebase-ornek.firebaseio.com",
+    "project_id": "ionic-firebase-ornek",
+    "storage_bucket": "ionic-firebase-ornek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745901059846:android:8bd1503ff4de97403f7887",
+        "android_client_info": {
+          "package_name": "com.erinckaratas.capFireBasePush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745901059846-9spv414upn8qmofq3lp6bbmb4mgmkl1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVprS8StUsgBrM2b6CcnmVts3hgBRG90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745901059846-9spv414upn8qmofq3lp6bbmb4mgmkl1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
