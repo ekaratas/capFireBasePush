@@ -1,0 +1,7 @@
+{
+  "name": "capFireBasePush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
